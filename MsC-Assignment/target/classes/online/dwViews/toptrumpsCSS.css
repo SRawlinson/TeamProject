@@ -1,0 +1,29 @@
+body{
+    font-family: Arial;
+    background-image: url("http://www.apexoregon.com/wp-content/uploads/2015/07/tumblr_static_swimming-pool1.jpg");
+}
+
+h1{
+    color: pink;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2{
+    color: pink;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+	
+
+.buttonsContainer{
+    vertical-align: center;
+}
+
+.buttons{
+    padding: 10px;
+    color: #ff1493;
+    align-items: center;
+}
